@@ -1,0 +1,14 @@
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\bin\Debug\net8.0\Lab_3_Kukurik.exe
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\bin\Debug\net8.0\Lab_3_Kukurik.deps.json
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\bin\Debug\net8.0\Lab_3_Kukurik.runtimeconfig.json
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\bin\Debug\net8.0\Lab_3_Kukurik.dll
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\bin\Debug\net8.0\Lab_3_Kukurik.pdb
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.dll
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\refint\Lab_3_Kukurik.dll
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.pdb
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\Lab_3_Kukurik.genruntimeconfig.cache
+C:\Users\Denis\Desktop\Lab_3_Kukurik\Lab_3_Kukurik\obj\Debug\net8.0\ref\Lab_3_Kukurik.dll

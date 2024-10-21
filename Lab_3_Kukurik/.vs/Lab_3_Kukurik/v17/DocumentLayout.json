@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|c:\\users\\denis\\desktop\\lab_3_kukurik\\lab_3_kukurik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|solutionrelative:lab_3_kukurik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|c:\\users\\denis\\desktop\\lab_3_kukurik\\lab_3_kukurik\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|solutionrelative:lab_3_kukurik\\sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|c:\\users\\denis\\desktop\\lab_3_kukurik\\lab_3_kukurik\\controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|solutionrelative:lab_3_kukurik\\controlsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|c:\\users\\denis\\desktop\\lab_3_kukurik\\lab_3_kukurik\\firesuppressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD2C55A0-E7A1-489D-8E96-C6481B04AB1A}|Lab_3_Kukurik\\Lab_3_Kukurik.csproj|solutionrelative:lab_3_kukurik\\firesuppressionsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireSuppressionSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\FireSuppressionSystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Kukurik\\FireSuppressionSystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\FireSuppressionSystem.cs",
+              "RelativeToolTip": "Lab_3_Kukurik\\FireSuppressionSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:17:50.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControlSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\ControlSystem.cs",
+              "RelativeDocumentMoniker": "Lab_3_Kukurik\\ControlSystem.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\ControlSystem.cs",
+              "RelativeToolTip": "Lab_3_Kukurik\\ControlSystem.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA2wAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:10:24.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\Sensor.cs",
+              "RelativeDocumentMoniker": "Lab_3_Kukurik\\Sensor.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\Sensor.cs",
+              "RelativeToolTip": "Lab_3_Kukurik\\Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:00:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_3_Kukurik\\Program.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab_3_Kukurik\\Lab_3_Kukurik\\Program.cs",
+              "RelativeToolTip": "Lab_3_Kukurik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:58:58.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
